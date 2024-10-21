@@ -17,5 +17,6 @@ clone the project
 7)  Now you can run this project
 
 8)  Q) How to Register as a admin and login?
+
     Ans) There is a controller "UserAuthentication" and a commented method "Register". Uncomment the "Register" method
          Run the project and hit the url "https://localhost:7095/UserAuthentication/Register". You will be registered as a admin. Now you             can re comment the register user (for privacy). Now you can login with credentials "Username: admin, password: Admin@123"
